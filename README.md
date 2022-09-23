@@ -8,6 +8,7 @@ products.blade.php --> <laravel root>\resources\views
   
 
 https://<domain>/products
+  
 https://<domain>/products?category=insurance
 
 
