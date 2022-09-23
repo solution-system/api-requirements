@@ -1,3 +1,12 @@
+ProductController.php --> <laravel root>\app\Http\Controllers
+helpers.php --> <laravel root>\app
+composer.json --> <laravel root>\
+products.blade.php --> <laravel root>\resources\views
+
+https://<domain>/products
+https://<domain>/products?category=insurance
+
+
 # api-requirements
 
 ## Description
