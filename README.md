@@ -7,9 +7,9 @@ composer.json --> <laravel root>\
 products.blade.php --> <laravel root>\resources\views
   
 
-https://<domain>/products
+https://domain:port/products
   
-https://<domain>/products?category=insurance
+https://domain:port/products?category=insurance
 
 
   
